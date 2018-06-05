@@ -1,5 +1,4 @@
-print "Hello world!"
-print "yo"
-print "yo"
+print "what's your name?"
+
 
 
